@@ -1,13 +1,13 @@
 ﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/PROCAJA/master/guide.xml"
 #EXTINF:-1 group-title="NACIONAL" tvg-id="LA 1 HD" ,LA 1
-http://photocall.tv/rG2b/tve?ch=la1
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 group-title="NACIONAL" tvg-id="LA 2 HD" ,LA 2
-http://photocall.tv/rG2b/tve?ch=la2
+https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 group-title="NACIONAL" tvg-id="ANTENA 3 HD" ,ANTENA 3
 NOT FOUND
 #EXTINF:-1 group-title="NACIONAL" tvg-id="CUATRO HD" ,CUATRO
-http://photocall.tv/rG2b/mt?ch=cuatro
+https://live.mitele.es/hls/live/2004102/cuatro/playlist.m3u8?hdnts=st=1614072180~exp=1614086579~acl=/*~hmac=39c5bc7b4f39aca4b4d10c567547bcc8fb14696877c10f1fbd08949c33c2f70d
 #EXTINF:-1 group-title="NACIONAL" tvg-id="TELECINCO FHD" ,TELECINCO
-http://photocall.tv/rG2b/mt?ch=telecinco
+https://live.mitele.es/hls/live/2004101/telecinco/playlist.m3u8?hdnts=st=1614060852~exp=1614075252~acl=/*~hmac=c1e46ff59e6106c2377b47e23d09180474604cb38f155dff953b4bb5a8353ea9
 #EXTINF:-1 group-title="NACIONAL" tvg-id="LA SEXTA HD" ,LA SEXTA
 NOT FOUND
