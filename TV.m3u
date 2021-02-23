@@ -1,0 +1,13 @@
+﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/PROCAJA/master/guide.xml"
+#EXTINF:-1 group-title="NACIONAL" tvg-id="LA 1 HD" ,LA 1
+http://photocall.tv/rG2b/tve?ch=la1
+#EXTINF:-1 group-title="NACIONAL" tvg-id="LA 2 HD" ,LA 2
+http://photocall.tv/rG2b/tve?ch=la2
+#EXTINF:-1 group-title="NACIONAL" tvg-id="ANTENA 3 HD" ,ANTENA 3
+NOT FOUND
+#EXTINF:-1 group-title="NACIONAL" tvg-id="CUATRO HD" ,CUATRO
+http://photocall.tv/rG2b/mt?ch=cuatro
+#EXTINF:-1 group-title="NACIONAL" tvg-id="TELECINCO FHD" ,TELECINCO
+http://photocall.tv/rG2b/mt?ch=telecinco
+#EXTINF:-1 group-title="NACIONAL" tvg-id="LA SEXTA HD" ,LA SEXTA
+NOT FOUND
